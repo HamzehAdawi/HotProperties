@@ -9,7 +9,7 @@ Users accounts are broken down into 3 roles all of which are responsible for som
 
 Feel free to try out other roles below or view the video demos. 
 <br><br><br><br><br>
-## Demo Account Information & All users stored in MySQL secure with JWT authentification 🔒
+## Demo Account Information 
 BUYER Accounts:
 - Able to search and browse available properteis, contact agents, favortie properties, etc.
 - Created by anyone through register page
@@ -27,20 +27,20 @@ AGENT Accounts:
 
 ## 🛠 Tech Stack
 
-### Backend
+### Backend ◀️
 - Java  
 - Spring Boot  
 - Spring Security (JWT Authentication)  
 - JPA / Hibernate  
 - MySQL  
 
-### Frontend
+### Frontend 👁️
 - JavaScript  
 - Thymeleaf  
 - HTML5  
 - CSS3  
 
-### Security & Infrastructure
+### All users stored in MySQL secure with JWT authentification 🔒
 - JWT-based Authentication & Authorization  
 - Role-Based Access Control (Admin / Agent / Buyer)  
 - Custom Security Filters & Rate Limiting  
