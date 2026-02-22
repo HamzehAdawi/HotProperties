@@ -2,6 +2,14 @@
 Hot properties is a full stack real estate web app included with features such as browsing properties, listing properties, inquiring through messaging, favorties, all with DB persistence through MySQL. 
 Users accounts are broken down into 3 roles all of which are responsible for something different. Admin for account creation (agents) via Admin accounts, Agents for property listing, and Buyers for shopping properties. 
 
+For demo purposes:
+username: buyer@email.com
+password: buyer123
+
+BUYER Accounts:
+- Able to search and browse available properteis, contact agents, favortie properties, etc.
+- Created by anyone through register page
+
 ## Account Information & Active Username/Password
 ADMIN Accounts: 
 - email: admin@email.com
@@ -14,10 +22,6 @@ AGENT Accounts:
 - Responsible for posting listings, responding to buyers messages, adding / deleting properties etc..
 - Licensed and can only be created by admins
   
-BUYER Accounts:
-- Able to search and browse available properteis, contact agents, favortie properties, etc.
-- Created by anyone through register page
-
 ## Demo
 
 AGENT Demo
