@@ -1,13 +1,13 @@
 ## Hot Properties
 Hot properties is a full stack real estate web app included with features such as browsing properties, listing properties, inquiring through messaging, favorties, all with DB persistence through MySQL. 
-Users accounts are broken down into 3 roles all of which are responsible for something different. Admin for account creation (agents) via Admin accounts, Agents for property listing, and Buyers for shopping properties. 
+Users accounts are broken down into 3 roles all of which are responsible for something different. 1. Admin for account creation (agents) via Admin accounts, 2. Agents for property managing, listing, selling, and 3. Buyers for shopping properties. 
 
 ### For demo purposes, it's best to log in and visit the website as a buyer. Please use the following credentials:
 - Deployed websit here: https://hamzeh-hot-properties.com/
 - username: buyer@email.com
 - password: buyer123
 
-
+Feel free to try out other roles below or view the video demos. 
 
 ## Account Information & Active Username/Password
 BUYER Accounts:
