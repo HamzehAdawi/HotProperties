@@ -9,6 +9,9 @@ Users accounts are broken down into 3 roles all of which are responsible for som
 
 Feel free to try out other roles below or view the video demos. 
 
+
+
+
 ## Account Information & Active Username/Password
 BUYER Accounts:
 - Able to search and browse available properteis, contact agents, favortie properties, etc.
