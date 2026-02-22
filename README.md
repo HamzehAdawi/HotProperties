@@ -7,10 +7,11 @@ Users accounts are broken down into 3 roles all of which are responsible for som
 - username: buyer@email.com
 - password: buyer123
 <br>
-Deployed websit here: https://hamzeh-hot-properties.com/
+Deployed websit here: https://hamzeh-hot-properties.com
+
 <br><br><br>
 
-##Demo Account Information 
+## Demo Account Information 
 BUYER Accounts:
 - Able to search and browse available properteis, contact agents, favortie properties, etc.
 - Created by anyone through register page
