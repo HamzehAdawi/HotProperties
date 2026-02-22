@@ -40,12 +40,13 @@ AGENT Accounts:
 - HTML5  
 - CSS3  
 
-### All users stored in MySQL secure with JWT authentification 🔒
+### JWT authentification 🔒
 - JWT-based Authentication & Authorization  
 - Role-Based Access Control (Admin / Agent / Buyer)  
 - Custom Security Filters & Rate Limiting  
 - AWS Deployment
-- 
+
+### All users stored in MySQL secure with 
 ## Demo
 
 AGENT Demo
