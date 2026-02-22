@@ -6,7 +6,7 @@ Users accounts are broken down into 3 roles all of which are responsible for som
 #### Please use the following credentials:
 - username: buyer@email.com
 - password: buyer123
-
+<br>
 Deployed websit here: https://hamzeh-hot-properties.com/
 <br><br><br>
 ## Demo Account Information 
