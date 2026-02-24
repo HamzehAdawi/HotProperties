@@ -6,7 +6,7 @@ Deployed on AWS with DB persistence (MySQL).
 
 User accounts are broken down into 
 3 roles: 
-- Admin - account management via admin portal, 
+- Admin - account management via admin portal. 
 - Agent - property listing, selling, and handeling of message inquiries for properties. 
 - Buyers - for shopping listed properties or connecting with agents for selling. 
 
