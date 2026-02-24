@@ -15,7 +15,8 @@ Please use the following credentials:
 - username: buyer@email.com
 - password: buyer123
 <br>
-Deployed websit here: https://hamzeh-hot-properties.com
+Deployed websit here: 
+https://hamzeh-hot-properties.com
 
 
 
