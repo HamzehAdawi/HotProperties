@@ -2,7 +2,12 @@
 Hot properties is a full stack web app centered around purchase and sale of real estate property. 
 
 Features include managing, browsing, listing, selling, purchasing, and inquiring (messaging system) of properties. Deployed on AWS with a DB persistence through MySQL. 
-User accounts are broken down into 3 roles: 1. Admin - account management via admin portal, 2. Agent - property listing, selling, and handeling of message inquiries for properties. 3. Buyers for shopping listed properties. 
+
+User accounts are broken down into 
+3 roles: 
+- 1. Admin - account management via admin portal, 
+- 2. Agent - property listing, selling, and handeling of message inquiries for properties. 
+- 3. Buyers for shopping listed properties or connecting with agents for selling. 
 
 #### For demo purposes it is best to log in and visit the website as a buyer. 
 #### Please use the following credentials:
